@@ -1,4 +1,4 @@
-#SQL:  ##Mobile Manufacturer Data Analysis
+##SQL: Mobile Manufacturer Data Analysis
 <br>
 •	Analyzed a database of cellphone sales transactions using SQL, identifying the top 5 manufacturers by sales volume and uncovering a 15% increase in average spending by the top 100 customers between 2009 and 2010.
 <br>
